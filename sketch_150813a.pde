@@ -7,6 +7,7 @@ void draw(){
 }
 
 void drawRandomCircles(){
+  fill(#FF0000);
   ellipse(random(width),
           random(height),
           random(20,20),
