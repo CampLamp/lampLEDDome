@@ -19,7 +19,7 @@ Processing is written in Java.
 controlled by a heroicrobotics pixelpusher
 
 ###Power:
-30A ATX power supply
+5v 30A ATX power supply with Anderson Powerpoles connected to the 5v Rail.
 
 ##Pixelpusher hardware configuration:
 <https://sites.google.com/a/heroicrobot.com/pixelpusher/home/getting-started>
