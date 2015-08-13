@@ -1,0 +1,8 @@
+clearscreen window
+penup fd 100 show pos pendown
+repeat 5 [ 
+  fd 100 show pos rt 54
+  repeat 5 [ fd 100 show pos lt 72 ]
+  rt 72 rt 54 fd 100 show pos
+  rt 54 fd 100 show pos rt 54
+]
