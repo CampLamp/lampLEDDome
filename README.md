@@ -26,4 +26,3 @@ controlled by a heroicrobotics pixelpusher
 5v Bypass switch = ON
 Direct switch 1-3 = ON
 #other information
-#5v, bypass switch on?
