@@ -1,5 +1,5 @@
 # lampLEDDome
-An adressable LED dome intended to be used by CAMP LAMP at burning man 2015.
+An adressable LED dome intended to be used by CAMP LAMP at burning man 2015 and beyond.
 ##Hardware Description:
 35 1.1M sections of rbg APA102 LEDs in diffused polycarbonate tubes.
 33 leds per tube.
@@ -18,4 +18,3 @@ Processing is written in Java.
 
 #other information
 #5v, bypass switch on?
-
