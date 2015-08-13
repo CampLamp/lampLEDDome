@@ -7,7 +7,12 @@ controlled by a heroicrobotics pixelpusher
 
 ##Software description:
 the targeted software pipeline is as follows:
-###Resolume <https://resolume.com/> --> Spout <http://spout.zeal.co/> --> processing <https://processing.org/> --> heroic robotics processing Library --> Pixelpusher
+####1. Resolume <https://resolume.com/> --> 
+####2. Spout <http://spout.zeal.co/> --> 
+####3. processing <https://processing.org/> -->
+####4. heroic robotics processing Library (Processing Contributed Libraries) -->
+####5. Heroic Labs Pixelpusher -->
+####6. Five chanels (7 strips per channel) of APA102 LED lights.
 written in processing <https://processing.org/> based on the heroic robotics pixelpusher library.
 Processing is written in Java.
 
